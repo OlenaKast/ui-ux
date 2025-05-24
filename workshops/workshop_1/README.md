@@ -8,6 +8,15 @@
 | screenshot       | png               | 1490x867          | 2,03 МБ         |
 | with_text        | jpg               | 1000x1250         | 191 Kb          |
 
+### Фото:
+![photo](images/first/photo.jpg)
+
+### Скіншот:
+![screenshot](images/first/screenshot.png)
+
+### З текстом:
+![with_text](images/first/with_text.jpg)
+
 ## Lossless
 
 ### WebP
@@ -18,6 +27,15 @@
 | screenshot       | webp              | 1490x867          | 1.3 МБ          | -36%    |
 | with_text        | webp              | 1000x1250         | 1.11 МБ         | +480%   |
 
+### Фото:
+![photo](images/WebP/photo.webp)
+
+### Скіншот:
+![screenshot](images/WebP/screenshot.webp)
+
+### З текстом:
+![with_text](images/WebP/with_text.webp)
+
 ### Png
 
 | Назва зображення | Формат зображення | Розмір зображення | Вага зображення | Зміна |
@@ -25,6 +43,15 @@
 | photo            | png               | 1366x2048         | 2,34 МБ         | +1263%|
 | screenshot       | png               | 1490x867          | 2.07 Mb         | +2%   |
 | with_text        | png               | 1000x1250         | 2 Mb            | +948% |
+
+### Фото:
+![photo](images/PNG/photo.png)
+
+### Скіншот:
+![screenshot](images/PNG/screenshot.png)
+
+### З текстом:
+![with_text](images/PNG/with_text.png)
 
 ## MozJPEG (100% quality)
 
@@ -34,6 +61,15 @@
 | screenshot       | jpg               | 1490x867          | 1.07 МБ         | -47%  |
 | with_text        | jpg               | 1000x1250         | 678 Kb          | +255% |
 
+### Фото:
+![photo](images/MozJPEG(100)/photo.jpg)
+
+### Скіншот:
+![screenshot](images/MozJPEG(100)/screenshot.jpg)
+
+### З текстом:
+![with_text](images/MozJPEG(100)/with_text.jpg)
+
 ## MozJPEG (75% quality)
 
 | Назва зображення | Формат зображення | Розмір зображення | Вага зображення | Зміна |
@@ -41,6 +77,15 @@
 | photo            | jpg               | 1366x2048         | 90.6 Kb         | -47% |
 | screenshot       | jpg               | 1490x867          | 124 Kb          | -94% |
 | with_text        | jpg               | 1000x1250         | 164 Kb          | -14% |
+
+### Фото:
+![photo](images/MozJPEG(75)/photo.jpg)
+
+### Скіншот:
+![screenshot](images/MozJPEG(75)/screenshot.jpg)
+
+### З текстом:
+![with_text](images/MozJPEG(75)/with_text.jpg)
 
 ## MozJPEG (50% quality)
 
@@ -50,6 +95,15 @@
 | screenshot       | jpg               | 1490x867          | 71.1 Kb         | -96% |
 | with_text        | jpg               | 1000x1250         | 97.3 Kb         | -49% |
 
+### Фото:
+![photo](images/MozJPEG(50)/photo.jpg)
+
+### Скіншот:
+![screenshot](images/MozJPEG(50)/screenshot.jpg)
+
+### З текстом:
+![with_text](images/MozJPEG(50)/with_text.jpg)
+
 ## WebP (100% quality)
 
 | Назва зображення | Формат зображення | Розмір зображення | Вага зображення | Зміна |
@@ -57,6 +111,15 @@
 | photo            | webp              | 1366x2048         | 322 Kb          | +87%  |
 | screenshot       | webp              | 1490x867          | 466 Kb          | -77%  |
 | with_text        | webp              | 1000x1250         | 447 Kb          | +134% |
+
+### Фото:
+![photo](images/WebP(100)/photo.webp)
+
+### Скіншот:
+![screenshot](images/WebP(100)/screenshot.webp)
+
+### З текстом:
+![with_text](images/WebP(100)/with_text.webp)
 
 ## WebP (75% quality)
 
@@ -66,6 +129,15 @@
 | screenshot       | webp              | 1490x867          | 107 Kb          | -95%  |
 | with_text        | webp              | 1000x1250         | 144 Kb          | -25%  |
 
+### Фото:
+![photo](images/WebP(75)/photo.webp)
+
+### Скіншот:
+![screenshot](images/WebP(75)/screenshot.webp)
+
+### З текстом:
+![with_text](images/WebP(75)/with_text.webp)
+
 ## WebP (50% quality)
 
 | Назва зображення | Формат зображення | Розмір зображення | Вага зображення | Зміна |
@@ -73,6 +145,15 @@
 | photo            | webp              | 1366x2048         | 32.9 Kb         | -81%  |
 | screenshot       | webp              | 1490x867          | 73.8 Kb         | -96%  |
 | with_text        | webp              | 1000x1250         | 107 Kb          | -44%  |
+
+### Фото:
+![photo](images/WebP(50)/photo.webp)
+
+### Скіншот:
+![screenshot](images/WebP(50)/screenshot.webp)
+
+### З текстом:
+![with_text](images/WebP(50)/with_text.webp)
 
 ## AVIF (100% quality)
 
@@ -82,6 +163,15 @@
 | screenshot       | avif              | 1490x867          | 572 Kb          | -72%  |
 | with_text        | avif              | 1000x1250         | 386 Kb          | +102% |
 
+### Фото:
+![photo](images/avif100/photo.avif)
+
+### Скіншот:
+![screenshot](images/avif100/screenshot.avif)
+
+### З текстом:
+![with_text](images/avif100/with_text.avif)
+
 ## AVIF (75% quality)
 
 | Назва зображення | Формат зображення | Розмір зображення | Вага зображення | Зміна |
@@ -89,6 +179,15 @@
 | photo            | avif              | 1366x2048         | 59.1 Kb         | -66%  |
 | screenshot       | avif              | 1490x867          | 157 Kb          | -92%  |
 | with_text        | avif              | 1000x1250         | 174 Kb          | -9%   |
+
+### Фото:
+![photo](images/avif75/photo.avif)
+
+### Скіншот:
+![screenshot](images/avif75/screenshot.avif)
+
+### З текстом:
+![with_text](images/avif75/with_text.avif)
 
 ## AVIF (50% quality)
 
@@ -98,6 +197,15 @@
 | screenshot       | avif              | 1490x867          | 65.3 Kb         | -97%  |
 | with_text        | avif              | 1000x1250         | 106 Kb          | -44%  |
 
+### Фото:
+![photo](images/avif50/photo.avif)
+
+### Скіншот:
+![screenshot](images/avif50/screenshot.avif)
+
+### З текстом:
+![with_text](images/avif50/with_text.avif)
+
 ## Для вебу (максимальна ширина 1200px)
 
 | Назва зображення | Формат зображення | Розмір зображення | Вага зображення | Зміна |
@@ -105,6 +213,15 @@
 | photo            | jpg               | 1200x1799         | 69.1 Kb         | -60%  |
 | screenshot       | jpg               | 1200x698          | 86 Kb           | -96%  |
 | with_text        | jpg               | 1200x1500         | 264 Kb          | +10%  |
+
+### Фото:
+![photo](images/forWeb/photo.jpg)
+
+### Скіншот:
+![screenshot](images/forWeb/screenshot.jpg)
+
+### З текстом:
+![with_text](images/forWeb/with_text.jpg)
 
 ## Для мобільних пристроїв (максимальна ширина 600px)
 
@@ -114,6 +231,15 @@
 | screenshot       | jpg               | 600x349           | 24.5 Kb         | -99%  |
 | with_text        | jpg               | 600x750           | 66 Kb           | -65%  |
 
+### Фото:
+![photo](images/forMobile/photo.jpg)
+
+### Скіншот:
+![screenshot](images/forMobile/screenshot.jpg)
+
+### З текстом:
+![with_text](images/forMobile/with_text.jpg)
+
 ## Для Retina-дисплеїв (2x версія зображення)
 
 | Назва зображення | Формат зображення | Розмір зображення | Вага зображення | Зміна |
@@ -122,6 +248,27 @@
 | screenshot       | jpg               | 2980x1734         | 336 Kb          | -83%  |
 | with_text        | jpg               | 2000x2500         | 415 Kb          | +117% |
 
+
+### Фото:
+![photo](images/forRetina/photo.jpg)
+
+### Скіншот:
+![screenshot](images/forRetina/screenshot.jpg)
+
+### З текстом:
+![with_text](images/forRetina/with_text.jpg)
+
+## Висновок
+Підсумковуючи, для різних типів зображення формати та параметри відрізняються.
+Також цей застосунок краще працює саме з .png файлами, як мінімум, якщо порівнювати з .jpg, особливо що стосується збережння якості без збільшення ваги файлу.
+У .jpg зображеннях майже неможливо зберігти якість зображення при зменьшені ваги.
+Але найоптимальніший формат для усіх зображень один AVIF, він найкраще зберігає якість при зменьшені зображення.
+Також є помітна різниця якості між звичайними зображеннями і зображенням з текстом, там більш помітно коли якість зменьшується.
+Тож для адаптації зображень під різні цілі важливо враховувати:
+1) тип зображення (фото, графіка, текст),
+2) цільове застосування (веб, мобільні, Retina),
+3) баланс між якістю та розміром.
+4) тип самого файлу (.jpg, .png, .webp, тощо).
 
 
 
